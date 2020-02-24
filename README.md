@@ -1,4 +1,4 @@
-# CSharpJapaneseLocalization
+# C# Japanese Localization
 Make C# in Japanese Localization.
 
 # Requirements
